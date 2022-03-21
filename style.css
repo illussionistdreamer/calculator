@@ -1,0 +1,34 @@
+.container{
+    width: 40%;
+    height: 600px;
+    background: gray;
+    margin-left: 28%;
+    margin-top: 5%;
+    border: solid;
+   
+}
+
+.input{
+    margin-left: 10%;
+    margin-top: 5%;
+    width: 80%;
+    height: 55px;
+    border: solid; 
+    background-color: white;
+    text-align: right;
+    font-size: larger;
+    font-weight: 800;
+}
+
+.btn{
+    border: solid;
+    }
+
+.btn:hover{
+
+    background-color: lightcoral;
+    color: white;
+    transition: .5s ease-in-out;
+
+}    
+
